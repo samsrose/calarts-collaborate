@@ -17,8 +17,8 @@
 /out/
 
 # Agents
-AGENTS.md
-CLAUDE.md
+/AGENTS.md
+/CLAUDE.md
 
 # production
 /build
